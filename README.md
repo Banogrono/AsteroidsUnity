@@ -10,7 +10,7 @@ This is my (another) take on classic arcade game "Asteroids". This time I made i
 Current version offers:
 - 3 levels of difficulty
 - 6 power ups
-- handcrafeted (in Krita) with love asteroids and enemies
+- handcrafted (in Krita) with love asteroids and enemies
 - great, atmospheric soundtrack made with blessing of https://onlinesequencer.net/
 - it sort of works
 
